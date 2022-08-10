@@ -1,0 +1,46 @@
+.firstbox{
+    margin:0 auto;
+    height: 600px;
+    width: 600px;
+    border: 2px solid;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    
+}
+
+.redbox1{
+    background-color: red;
+    color: white;
+    height: 200px;
+    width: 200px;
+    font-size: 35px;
+    font-family: arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bluebox2{
+    background-color: blue;
+    color: white;
+    height: 200px;
+    width: 200px;
+    font-size: 35px;
+    font-family: arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.greenbox3{
+    background-color: green;
+    color: white;
+    height: 200px;
+    width: 200px;
+    font-size: 35px;
+    font-family: arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
